@@ -5,12 +5,12 @@ CREATE TABLE contacts(
     email VARCHAR(50) NOT NULL
 );
 
-CREATE TABLE category (
+CREATE TABLE category(
     category_id VARCHAR(10) PRIMARY KEY NOT NULL,
     category VARCHAR(50) NOT NULL
 );
 
-CREATE TABLE subcategory (
+CREATE TABLE subcategory(
     subcategory_id VARCHAR(10) PRIMARY KEY NOT NULL,
     subcategory VARCHAR(50) NOT NULL
 );
