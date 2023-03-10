@@ -29,6 +29,11 @@ Using two datasets, crowdfunding campaign and contacts. Using Python dictionarie
 
 ![5](https://user-images.githubusercontent.com/117790100/223793560-3cb51ed1-2f79-4aad-9d6f-3416e9baa948.png)
 
+![a](https://user-images.githubusercontent.com/117790100/224227604-c35a7643-b10f-4514-a54a-6bf2a800fd2f.png)
+
+![b](https://user-images.githubusercontent.com/117790100/224227607-11550b96-c05a-461f-8383-ad1adbd4850d.png)
+
+
 ## Setup
 An image of the ERD and the database schema can be referenced in the repository file. All excel and csv files are located in the Resources folder for reference.
 
