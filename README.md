@@ -1,5 +1,5 @@
 # Crowdfunding-ETL
-Project 2 of my Data Analytics and Visualization Boot Camp is to build an ETL pipeline using Python and Pandas where the data is extracted, transformed and loaded.
+Build an ETL pipeline using Python and Pandas where the data is extracted, transformed and loaded.
 
 ## Table of Contents
 * [General Info](#general-information)
